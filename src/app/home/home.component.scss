@@ -1,0 +1,28 @@
+.in{
+    img{
+        margin-bottom: -20px;
+    }
+    h1{
+        color:#FFFFFF;
+        font-family:sans-serif;
+        font-weight: bold;
+    }
+    .box{
+        width: 40%;
+        color: white;
+        font-weight: bold;
+        .form-control-plaintext{
+            color: #FFFFFF;
+            border: 2px solid white;
+            border-radius: 10px;
+            margin-bottom: 10px;
+            padding: 5px;
+            width: 100%;
+        }
+        button{
+            padding: 0;
+            background-color: transparent;
+            border: none;
+        }
+    }
+}
